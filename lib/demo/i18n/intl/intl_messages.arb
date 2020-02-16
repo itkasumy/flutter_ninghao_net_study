@@ -1,0 +1,17 @@
+{
+  "@@last_modified": "2020-02-16T18:05:06.310834",
+  "title": "hello",
+  "@title": {
+    "description": "Fugiat Lorem aliquip deserunt veniam.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greet": "hello {name}",
+  "@greet": {
+    "description": "Cupidatat labore dolore velit mollir",
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@@last_modified": "2020-02-16T18:05:06.310834",
+  "title": "您好",
+  "@title": {
+    "description": "谏逐客书",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greet": "您好 {name}",
+  "@greet": {
+    "description": "泰山不让寸土，故能成其大",
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  }
+}
